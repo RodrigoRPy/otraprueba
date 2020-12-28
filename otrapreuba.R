@@ -6,8 +6,7 @@
 X = c(10,15,60)
 y= var(X)
 y1= mean(X)
+y3=sum(X)
 
-# otro cambio
 
-y2=sum(X)
-#hhñ
+
