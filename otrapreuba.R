@@ -10,3 +10,4 @@ y1= mean(X)
 # otro cambio
 
 y2=sum(X)
+#hh
